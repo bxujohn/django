@@ -1,0 +1,2 @@
+# django
+midterm-ITE18
